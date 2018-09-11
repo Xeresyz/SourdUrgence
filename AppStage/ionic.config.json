@@ -1,0 +1,7 @@
+{
+  "name": "AppStage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
